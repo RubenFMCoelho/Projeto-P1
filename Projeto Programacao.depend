@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1642501247 source:c:\users\diogo coimbra\documents\programacao\projeto programacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"objetomembro.h"
+	"objetoteste.h"
+
+1642291139 source:c:\users\diogo coimbra\documents\programacao\projeto programacao\objetomembro..c
+	<stdio.h>
+	<stdlib.h>
+	"objetomembro.h"
+	"funcoesAux.h"
+	"objetoteste.h"
+
+1642501247 c:\users\diogo coimbra\documents\programacao\projeto programacao\objetomembro.h
+	"funcoesAux.h"
+
+1642375480 source:c:\users\diogo coimbra\documents\programacao\projeto programacao\funcoesaux.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAux.h"
+
+1642375451 c:\users\diogo coimbra\documents\programacao\projeto programacao\funcoesaux.h
+
+1641577626 source:d:\update\projeto programacao\funcoesaux.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAux.h"
+
+1641577304 d:\update\projeto programacao\funcoesaux.h
+	"objetomembro.h"
+
+1641468586 source:d:\update\projeto programacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"objetomembro.h"
+	"funcoesAux.h"
+
+1641566700 d:\update\projeto programacao\objetomembro.h
+	"funcoesAux.h"
+
+1641577360 source:d:\update\projeto programacao\objetomembro..c
+	<stdio.h>
+	<stdlib.h>
+	"objetomembro.h"
+
+1641566700 d:\update\projeto programacao\funcoesaux.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAux.h"
+
+1641299980 d:\update\projeto programacao\objetomembro.c
+
+1642632825 source:c:\users\ruben\desktop\projeto programacao\funcoesaux.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAux.h"
+
+1642375451 c:\users\ruben\desktop\projeto programacao\funcoesaux.h
+
+1642501247 c:\users\ruben\desktop\projeto programacao\objetomembro.h
+	"funcoesAux.h"
+
+1642501543 source:c:\users\ruben\desktop\projeto programacao\objetomembro..c
+	<stdio.h>
+	<stdlib.h>
+	"objetomembro.h"
+	"funcoesAux.h"
+	"objetoteste.h"
+
+1642501247 source:c:\users\ruben\desktop\projeto programacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"objetomembro.h"
+	"objetoteste.h"
+
+1642375185 c:\users\diogo coimbra\documents\programacao\projeto programacao\objetoteste.h
+	"funcoesAux.h"
+	"objetomembro.h"
+
+1642498885 source:c:\users\diogo coimbra\documents\programacao\projeto programacao\objetoteste.c
+	<stdio.h>
+	<stdlib.h>
+	"objetoteste.h"
+	"funcoesAux.h"
+	"objetomembro.h"
+
+1642291262 source:c:\users\diogo coimbra\documents\programacao\projeto programacao\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesFicheiros.h"
+	"objetomembro.h"
+	"objetoteste.h"
+
+1642267436 c:\users\diogo coimbra\documents\programacao\projeto programacao\funcoesficheiros.h
+	"objetomembro.h"
+	"objetoteste.h"
+
+1642291262 source:c:\users\ruben\desktop\projeto programacao\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesFicheiros.h"
+	"objetomembro.h"
+	"objetoteste.h"
+
+1642267436 c:\users\ruben\desktop\projeto programacao\funcoesficheiros.h
+	"objetomembro.h"
+	"objetoteste.h"
+
+1642629901 c:\users\ruben\desktop\projeto programacao\objetoteste.h
+	"funcoesAux.h"
+	"objetomembro.h"
+
+1642632585 source:c:\users\ruben\desktop\projeto programacao\objetoteste.c
+	<stdio.h>
+	<stdlib.h>
+	"objetoteste.h"
+	"funcoesAux.h"
+	"objetomembro.h"
+
+1642636425 source:c:\users\ruben\desktop\universidade\programação\projeto\projeto programacao\funcoesaux.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAux.h"
+
+1642379051 c:\users\ruben\desktop\universidade\programação\projeto\projeto programacao\funcoesaux.h
+
+1642294862 source:c:\users\ruben\desktop\universidade\programação\projeto\projeto programacao\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesFicheiros.h"
+	"objetomembro.h"
+	"objetoteste.h"
+
+1642271036 c:\users\ruben\desktop\universidade\programação\projeto\projeto programacao\funcoesficheiros.h
+	"objetomembro.h"
+	"objetoteste.h"
+
+1642504847 c:\users\ruben\desktop\universidade\programação\projeto\projeto programacao\objetomembro.h
+	"funcoesAux.h"
+
+1642633501 c:\users\ruben\desktop\universidade\programação\projeto\projeto programacao\objetoteste.h
+	"funcoesAux.h"
+	"objetomembro.h"
+
+1642504847 source:c:\users\ruben\desktop\universidade\programação\projeto\projeto programacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"objetomembro.h"
+	"objetoteste.h"
+
+1642505143 source:c:\users\ruben\desktop\universidade\programação\projeto\projeto programacao\objetomembro..c
+	<stdio.h>
+	<stdlib.h>
+	"objetomembro.h"
+	"funcoesAux.h"
+	"objetoteste.h"
+
+1642636628 source:c:\users\ruben\desktop\universidade\programação\projeto\projeto programacao\objetoteste.c
+	<stdio.h>
+	<stdlib.h>
+	"objetoteste.h"
+	"funcoesAux.h"
+	"objetomembro.h"
+
